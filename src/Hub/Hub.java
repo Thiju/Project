@@ -4,7 +4,7 @@ public class Hub {
 
 	public static void main() {
 		
-		System.out.println("hi");
+		System.out.println("hi how");
 	}
 	}
 
